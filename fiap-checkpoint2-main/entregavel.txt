@@ -1,3 +1,3 @@
-Nome: Enrico Thomas Mazelli
-RM: 94371
-GitHub: https://github.com/enricotm-fiap/fiap-checkpoint2
+Nome: Luigi Macedo Silva
+RM: 93989
+GitHub: https://github.com/LuigiMacedo/fiap-checkpoint2
